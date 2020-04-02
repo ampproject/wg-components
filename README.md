@@ -3,21 +3,24 @@
 
 Facilitator: [@nainar](https://github.com/aghassemi)
 
-# Members
+# Current Members
 - [@nainar](https://github.com/nainar) - Naina Raisinghani (Facilitator)
-- [@aghassemi](https://github.com/aghassemi) - Ali Ghassemi 
 - [@alanorozco](https://github.com/alanorozco) - Alan Orozco
-- [@andrewwatterson](https://github.com/andrewwatterson) - Andrew Watterson
 - [@caroqliu](https://github.com/caroqliu) - Caroline Liu
-- [@cathyxz](https://github.com/cathyxz) - Cathy Zhu
-- [@cvializ](https://github.com/cvializ) - Carlos Vializ
-- [@danielcyoung](https://github.com/danielcyoung) - Daniel Young
 - [@joneleven](https://github.com/JonEleven) - Jonathan Leventhal
 - [@kristoferbaxter](https://github.com/kristoferbaxter) - Kristofer Baxter
-- [@sparhami](https://github.com/sparhami) - Sepand Parhami
 - [@wassgha](https://github.com/wassgha) - Wassim Gharbi
 
 Github team https://github.com/orgs/ampproject/teams/wg-ui-and-a11y also includes UI WG members.
+
+# Past Members
+- [@aghassemi](https://github.com/aghassemi) - Ali Ghassemi 
+- [@andrewwatterson](https://github.com/andrewwatterson) - Andrew Watterson
+- [@cathyxz](https://github.com/cathyxz) - Cathy Zhu
+- [@cvializ](https://github.com/cvializ) - Carlos Vializ
+- [@danielcyoung](https://github.com/danielcyoung) - Daniel Young
+- [@sparhami](https://github.com/sparhami) - Sepand Parhami
+
 
 # Communication Channels
 - UI Working Group members will use `#wg-ui-and-a11y` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in UI working group.
