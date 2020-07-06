@@ -8,7 +8,9 @@ Facilitator: [@nainar](https://github.com/aghassemi)
 - [@alanorozco](https://github.com/alanorozco) - Alan Orozco
 - [@caroqliu](https://github.com/caroqliu) - Caroline Liu
 - [@joneleven](https://github.com/JonEleven) - Jonathan Leventhal
+- [@krdwan](https://github.com/krdwan) - Kevin Dwan
 - [@kristoferbaxter](https://github.com/kristoferbaxter) - Kristofer Baxter
+- [@rebeccanthomas](https://github.com/rebeccanthomas) - Rebecca Thomas
 - [@wassgha](https://github.com/wassgha) - Wassim Gharbi
 
 Github team https://github.com/orgs/ampproject/teams/wg-ui-and-a11y also includes UI WG members.
