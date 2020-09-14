@@ -11,7 +11,6 @@ Facilitator: [@nainar](https://github.com/aghassemi)
 - [@krdwan](https://github.com/krdwan) - Kevin Dwan
 - [@kristoferbaxter](https://github.com/kristoferbaxter) - Kristofer Baxter
 - [@rebeccanthomas](https://github.com/rebeccanthomas) - Rebecca Thomas
-- [@wassgha](https://github.com/wassgha) - Wassim Gharbi
 
 Github team https://github.com/orgs/ampproject/teams/wg-ui-and-a11y also includes UI WG members.
 
@@ -22,7 +21,7 @@ Github team https://github.com/orgs/ampproject/teams/wg-ui-and-a11y also include
 - [@cvializ](https://github.com/cvializ) - Carlos Vializ
 - [@danielcyoung](https://github.com/danielcyoung) - Daniel Young
 - [@sparhami](https://github.com/sparhami) - Sepand Parhami
-
+- [@wassgha](https://github.com/wassgha) - Wassim Gharbi
 
 # Communication Channels
 - UI Working Group members will use `#wg-ui-and-a11y` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in UI working group.
