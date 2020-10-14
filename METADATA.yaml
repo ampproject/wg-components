@@ -3,8 +3,8 @@ merged:
  - ui-and-a11y
 description: wg-components Working Group is responsible for AMP components, the overall health of AMP Pages, analytics features, and integrations with partner technologies. For overall accessibility, this group is also the first point of contact, however each WG is responsbile for ensuring accessibility within their areas of responsibility.
 facilitator:
-  login: cathyxz
-  name: Cathy Zhu
+  login: zhouyx
+  name: Yuxuan Zhou
 members:
   - login: micajuine-ho
     name: Micajuine Ho
