@@ -16,7 +16,7 @@ communication:
   - channel: slack
     name: Slack
     content:
-      - item: "Components Working Group members will use `#wg-components` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877) for real-time discussion. The channel is open to anyone, regardless of membership in UI working group."
+      - item: "Components Working Group members will use `#wg-components` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877) for real-time discussion. The channel is open to anyone, regardless of membership in Components working group."
   - channel: hangouts 
     name: Google Hangouts 
     content:
