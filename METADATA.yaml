@@ -17,10 +17,6 @@ communication:
     name: Slack
     content:
       - item: "Components Working Group members will use `#wg-components` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877) for real-time discussion. The channel is open to anyone, regardless of membership in Components working group."
-  - channel: hangouts 
-    name: Google Hangouts 
-    content:
-      - item: "Components Working Group will have **Sprint planning meetings** once every 2 weeks. To join in please dial into the following [Hangouts Meet room](https://meet.google.com/auo-gesx-tto). You can also duplicate [this](https://calendar.google.com/event?action=TEMPLATE&tmeid=MTIycTY5czdmb3AxamE0NjNmdjZ2cGhtOGtfMjAxOTExMjJUMTkwMDAwWiBuYWluYXJAZ29vZ2xlLmNvbQ&tmsrc=nainar%40google.com&scp=ALL) calendar reminder to remind yourself of this meeting."
   - channel: github
     name: GitHub
     content:
