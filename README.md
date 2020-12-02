@@ -10,6 +10,7 @@ Facilitator: [@zhouyx](https://github.com/zhouyx)
 - [@micajuine-ho](https://github.com/micajuine-ho) - Micajuine Ho
 - [@rebeccanthomas](https://github.com/rebeccanthomas) - Rebecca Thomas
 - [@kristoferbaxter](https://github.com/kristoferbaxter) - Kristofer Baxter
+- [@dmanek](https://github.com/dmanek) - Dhruv Manek
 
 Github team https://github.com/orgs/ampproject/teams/wg-components also includes Components WG members.
 
