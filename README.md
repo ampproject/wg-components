@@ -6,8 +6,7 @@ For overall accessibility, this group is also the first point of contact, howeve
 Facilitator: [@zhouyx](https://github.com/zhouyx)
 
 # Current Members
-- [@zhouyx](https://github.com/zhouyx) - Yuxuan Zhou (Facilitator)
-- [@micajuine-ho](https://github.com/micajuine-ho) - Micajuine Ho
+- [@micajuine-ho](https://github.com/micajuine-ho) - Micajuine Ho (Facilitator)
 - [@rebeccanthomas](https://github.com/rebeccanthomas) - Rebecca Thomas
 - [@kristoferbaxter](https://github.com/kristoferbaxter) - Kristofer Baxter
 - [@dmanek](https://github.com/dmanek) - Dhruv Manek
