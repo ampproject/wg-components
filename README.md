@@ -18,7 +18,6 @@ Github team https://github.com/orgs/ampproject/teams/wg-components also includes
 - Components Working Group will have **Sprint planning meetings** once every 2 weeks. To join in please dial into the following [Hangouts Meet room](https://meet.google.com/auo-gesx-tto). You can also duplicate [this](https://calendar.google.com/event?action=TEMPLATE&tmeid=MTIycTY5czdmb3AxamE0NjNmdjZ2cGhtOGtfMjAxOTExMjJUMTkwMDAwWiBuYWluYXJAZ29vZ2xlLmNvbQ&tmsrc=nainar%40google.com&scp=ALL) calendar reminder to remind yourself of this meeting. 
 - Components Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository.
 - Components Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository.
-- Components Working Group will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository.
 
 Any bugs or feature requests related to AMP should NOT be filed in this repository and https://github.com/ampproject/amphtml/issues should be used instead.
 
